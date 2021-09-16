@@ -247,7 +247,6 @@ var loadTasks = function() {
     }
 };
 
-
 pageContentEl.addEventListener("click", taskButtonHandler);
 pageContentEl.addEventListener("change", taskStatusChangeHandler);
 
